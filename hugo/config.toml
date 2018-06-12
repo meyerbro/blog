@@ -1,0 +1,38 @@
+baseURL = "https://blog.prdonahue.com"
+title = "Patrick's Blog"
+languageCode = "en-us"
+theme = "hyde-x"
+publishDir = "../docs"
+
+disqusShortname = "prdblog"
+MetaDataFormat = "toml"
+paginate = 10
+
+linenos = "inline"
+
+[author]
+    name = "Patrick R. Donahue"
+
+[permalinks]
+    post = "/blog/:year/:month/:day/:title/"
+
+[taxonomies]
+    category = "categories"
+
+[params]
+    profilePic = "me-200x200.png"
+    gravatarHash = "bc3f5fdfd3bf7ee89c7cd196c916714a"
+    truncate = true
+    theme = "theme-base-05"
+    highlight = "monokai-sublime"
+    customCSS = ""
+
+    tagline = "Musings on technology, health, and other random things I find interesting."
+    home = "Blog"
+    googleAnalytics = "UA-120711215-1"
+
+    github = "https://github.com/prdonahue"
+    linkedin = "https://www.linkedin.com/in/prdonahue/"
+    twitter = "https://twitter.com/prdonahue"
+
+    rss = true

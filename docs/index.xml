@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick&#39;s Blog</title>
+    <link>https://blog.prdonahue.com/</link>
+    <description>Recent content on Patrick&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jun 2018 19:39:22 -0700</lastBuildDate>
+    
+	<atom:link href="https://blog.prdonahue.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terraforming a static blog with Hugo, GitHub Pages, and Cloudflare</title>
+      <link>https://blog.prdonahue.com/blog/2018/06/10/terraforming-a-static-blog-with-hugo-github-pages-and-cloudflare/</link>
+      <pubDate>Sun, 10 Jun 2018 19:39:22 -0700</pubDate>
+      
+      <guid>https://blog.prdonahue.com/blog/2018/06/10/terraforming-a-static-blog-with-hugo-github-pages-and-cloudflare/</guid>
+      <description>&lt;p&gt;Hello, world! This is my first blog post (on my own site, &lt;a href=&#34;https://blog.cloudflare.com/author/patrick/&#34;&gt;anyway&lt;/a&gt;). Had I started this site a few years ago I would have used something like Medium, but because this is 2018 I decided to see what the buzz about &lt;a href=&#34;https://gohugo.io/about/benefits/&#34;&gt;statically generated sites&lt;/a&gt; was all about. We use &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; at Cloudflare for our &lt;a href=&#34;https://developers.cloudflare.com&#34;&gt;https://developers.cloudflare.com&lt;/a&gt; site and it was both fun and easy to use while writing the &lt;a href=&#34;https://developers.cloudflare.com/terraform/tutorial/hello-world/&#34;&gt;Cloudflare Terraform tutorial&lt;/a&gt;, so that&amp;rsquo;s what I went with for my personal blog.&lt;/p&gt;
+
+&lt;p&gt;Fittingly, this first post is all about setting up a statically generated site using Hugo, hosting it on &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, and serving it at the edge with &lt;a href=&#34;https://www.cloudflare.com&#34;&gt;Cloudflare&lt;/a&gt;. I use Terraform to manage both Cloudflare and GitHub, and my configuration files can be found in &lt;a href=&#34;https://github.com/prdonahuedotcom/blog&#34;&gt;this repository&lt;/a&gt;. Other notes I took as I went are interspersed as well, in case anyone finds them helpful.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

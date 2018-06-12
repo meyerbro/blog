@@ -1,0 +1,8 @@
+/*
+ * Tweaks and overrides to poole.css
+ */
+
+pre {
+  padding: 0;
+  white-space: pre;
+}

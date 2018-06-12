@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.prdonahue.com/blog/2018/06/10/terraforming-a-static-blog-with-hugo-github-pages-and-cloudflare/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/cloudflare/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/disqus/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/github-pages/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/hugo/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/post/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.prdonahue.com/categories/terraform/</loc>
+    <lastmod>2018-06-10T19:39:22-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
